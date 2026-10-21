@@ -15,7 +15,7 @@
 - Aplikasi memuat dua komponen pihak ketiga yang mengirim data teknis ke penyedianya:
   - **Vuforia Engine** (PTC Inc.) — validasi lisensi dan statistik teknis.
   - **ARCore / Google Play Services for AR** (Google) — data teknis dan diagnostik saat fitur AR berjalan.
-- Pertanyaan dan permintaan terkait privasi: **21adtydwf@gmail.com**.
+- Pertanyaan dan permintaan terkait privasi: **fenissesujkt48@gmail.com**.
 
 ---
 
@@ -25,7 +25,7 @@ Penyelenggara aplikasi dan pengendali data adalah:
 
 - **Nama:** Tim Inclumath
 - **Alamat:** Indonesia
-- **Email privasi:** 21adtydwf@gmail.com
+- **Email privasi:** fenissesujkt48@gmail.com
 
 Kami tidak memiliki server aplikasi sendiri dan tidak menyimpan basis data pengguna. Karena itu, sebagian besar data yang dijelaskan di bawah ini berada di perangkat Anda atau diproses langsung oleh penyedia komponen pihak ketiga.
 
@@ -165,7 +165,7 @@ Setelah itu, progres dan pengaturan tidak dapat dipulihkan. Menonaktifkan musik 
 - Keamanan data di perangkat tetap bergantung pada kunci layar, pembaruan sistem, dan praktik keamanan Anda.
 - Aplikasi ini **belum** menjalani audit keamanan independen.
 
-Tidak ada sistem yang sepenuhnya aman. Jika Anda menemukan masalah keamanan, hubungi kami melalui 21adtydwf@gmail.com.
+Tidak ada sistem yang sepenuhnya aman. Jika Anda menemukan masalah keamanan, hubungi kami melalui fenissesujkt48@gmail.com.
 
 ---
 
@@ -181,7 +181,7 @@ Sesuai Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi dan ke
 - mengajukan keberatan atas pemrosesan tertentu;
 - mengajukan keluhan kepada lembaga pengawas pelindungan data pribadi.
 
-Karena kami tidak menyimpan data pribadi di server, permintaan yang menyangkut data lokal dapat Anda lakukan sendiri melalui langkah pada bagian 7. Untuk permintaan lain, kirim email ke 21adtydwf@gmail.com dengan subjek **“Permintaan Privasi Inclumath”**. Kami akan menanggapi dalam waktu yang wajar sesuai ketentuan yang berlaku. Kami mungkin meminta informasi tambahan secukupnya untuk memverifikasi permintaan, tanpa meminta data yang tidak relevan.
+Karena kami tidak menyimpan data pribadi di server, permintaan yang menyangkut data lokal dapat Anda lakukan sendiri melalui langkah pada bagian 7. Untuk permintaan lain, kirim email ke fenissesujkt48@gmail.com dengan subjek **“Permintaan Privasi Inclumath”**. Kami akan menanggapi dalam waktu yang wajar sesuai ketentuan yang berlaku. Kami mungkin meminta informasi tambahan secukupnya untuk memverifikasi permintaan, tanpa meminta data yang tidak relevan.
 
 ---
 
@@ -203,7 +203,7 @@ Karena sebagian pengguna berusia di bawah 18 tahun, kami menyarankan orang tua, 
 - mengatur izin kamera melalui pengaturan Android;
 - mendampingi penggunaan fitur AR.
 
-Kami tidak dengan sengaja mengumpulkan data pribadi anak di bawah 13 tahun. Apabila Anda mengetahui bahwa seorang anak di bawah 13 tahun menggunakan aplikasi ini, hubungi 21adtydwf@gmail.com agar kami dapat membantu menjelaskan pengaturan privasi dan langkah penghapusan data lokal.
+Kami tidak dengan sengaja mengumpulkan data pribadi anak di bawah 13 tahun. Apabila Anda mengetahui bahwa seorang anak di bawah 13 tahun menggunakan aplikasi ini, hubungi fenissesujkt48@gmail.com agar kami dapat membantu menjelaskan pengaturan privasi dan langkah penghapusan data lokal.
 
 Untuk pengguna di bawah 18 tahun, persetujuan atas pemrosesan yang dijelaskan pada bagian 3.3 dan 3.4 diberikan oleh orang tua atau wali.
 
@@ -237,7 +237,7 @@ Kebijakan ini dapat diperbarui apabila fitur, komponen pihak ketiga, atau prakti
 ## 14. Kontak
 
 **Tim Inclumath**
-Email: 21adtydwf@gmail.com
+Email: fenissesujkt48@gmail.com
 Alamat: Indonesia
 
 Untuk pertanyaan tentang kebijakan ini atau permintaan terkait data pribadi, sertakan nama aplikasi (**Inclumath**) dan jelaskan permintaan Anda secara singkat.
