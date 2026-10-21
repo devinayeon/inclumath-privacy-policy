@@ -1,0 +1,63 @@
+# Kebijakan Privasi IncluMath
+
+**Terakhir diperbarui: 21 Oktober 2026**
+
+## 1. Pendahuluan
+
+Kebijakan Privasi ini menjelaskan bagaimana IncluMath (`com.inclumath.app`) menangani informasi pengguna saat menggunakan game IncluMath.
+
+IncluMath dirancang agar mekanisme permainan berjalan secara lokal pada perangkat pengguna. Kebijakan ini menjelaskan praktik privasi berdasarkan informasi yang telah dikonfirmasi dan akan diperbarui jika terdapat perubahan pada fitur atau cara aplikasi menangani data.
+
+## 2. Informasi yang Dikumpulkan
+
+Berdasarkan informasi pengembangan yang tersedia saat ini, mekanisme permainan IncluMath berjalan secara lokal di perangkat.
+
+Belum ada informasi terverifikasi yang menunjukkan bahwa IncluMath mengirimkan data permainan, skor, progres, atau informasi pribadi pengguna ke server eksternal.
+
+Namun, perilaku seluruh komponen aplikasi, termasuk pustaka pihak ketiga dan komponen bawaan platform, perlu diverifikasi sebelum dapat dipastikan bahwa tidak ada data yang dikumpulkan atau dikirimkan oleh aplikasi.
+
+## 3. Penggunaan Informasi
+
+Fitur permainan yang berjalan secara lokal memproses informasi yang diperlukan untuk menjalankan permainan pada perangkat pengguna.
+
+Apabila pemeriksaan teknis memastikan bahwa aplikasi tidak mengumpulkan informasi pengguna melalui jaringan atau komponen pihak ketiga, informasi tersebut tidak digunakan untuk analitik, iklan, atau pelacakan oleh IncluMath.
+
+## 4. Pembagian Informasi
+
+Praktik pembagian data oleh aplikasi belum dapat dipastikan sepenuhnya sebelum seluruh dependensi dan komunikasi jaringan diperiksa.
+
+Jika pemeriksaan mengonfirmasi bahwa aplikasi tidak mengirimkan data pengguna kepada pihak lain, IncluMath tidak membagikan data pengguna kepada pihak ketiga.
+
+Jika praktik tersebut berubah pada versi mendatang, kebijakan ini akan diperbarui sesuai dengan perubahan yang diterapkan.
+
+## 5. Penyimpanan dan Penghapusan Data
+
+Data permainan yang disimpan secara lokal, jika ada, berada pada perangkat pengguna sesuai dengan implementasi aplikasi.
+
+Pengguna dapat kehilangan data lokal ketika menghapus aplikasi atau menghapus data aplikasi melalui pengaturan Android. Dampak pastinya bergantung pada cara IncluMath menyimpan progres dan pengaturan permainan.
+
+Kebijakan penyimpanan dan penghapusan data ini akan diperjelas setelah mekanisme penyimpanan aplikasi diverifikasi.
+
+## 6. Keamanan
+
+IncluMath mengupayakan agar informasi pengguna ditangani secara proporsional dengan kebutuhan aplikasi. Jika aplikasi menyimpan data secara lokal, keamanan data tersebut juga bergantung pada keamanan perangkat dan sistem operasi yang digunakan pengguna.
+
+Praktik keamanan tambahan akan dijelaskan jika aplikasi menggunakan penyimpanan jarak jauh atau layanan pihak ketiga.
+
+## 7. Privasi Anak
+
+IncluMath merupakan game edukasi. Kelompok usia yang ditargetkan perlu ditetapkan berdasarkan tujuan dan desain aplikasi yang sebenarnya. Jika aplikasi ditujukan kepada anak-anak, pengembang akan memastikan bahwa aplikasi dan seluruh komponen pihak ketiganya mematuhi kebijakan Google Play yang berlaku untuk aplikasi anak dan keluarga.
+
+## 8. Perubahan Kebijakan Privasi
+
+Kebijakan ini dapat diperbarui apabila fitur, implementasi teknis, atau praktik pengelolaan data IncluMath berubah. Versi terbaru akan dipublikasikan melalui halaman kebijakan privasi ini beserta tanggal pembaruannya.
+
+## 9. Kontak
+
+Untuk pertanyaan mengenai kebijakan privasi IncluMath, pengguna dapat menghubungi pengembang melalui:
+
+**Nama aplikasi:** IncluMath  
+**ID paket:** `com.inclumath.app`  
+**Email kontak privasi:** [Tambahkan alamat email kontak pengembang yang aktif]
+
+Kebijakan ini berlaku untuk aplikasi IncluMath dan harus dibaca bersama informasi privasi yang ditampilkan pada Google Play.
